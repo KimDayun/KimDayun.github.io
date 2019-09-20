@@ -1325,7 +1325,19 @@ body.offcanvas .colorlib-nav-toggle {
     padding: 20px;
     display: block;
     position: relative;
-    height: 300px;
+    height: 500px;
+}
+
+.project .desc .con p {
+    color: white;
+    margin-bottom: 3px;
+}
+
+.project .desc .con .contents {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
 }
 
 .project .desc .con .icon {
@@ -1342,7 +1354,7 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 .project .desc .con .icon span a {
-    color: #333333;
+    color: #FFFFFF;
     padding: 5px;
     background: rgba(255, 255, 255, 0.5);
     -webkit-border-radius: 4px;
@@ -1353,7 +1365,7 @@ body.offcanvas .colorlib-nav-toggle {
 
 .project .desc .con .icon i {
     font-size: 16px;
-    color: #333333;
+    color: #FFFFFF;
 }
 
 .project .desc h3 {
